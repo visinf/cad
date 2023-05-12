@@ -14,7 +14,7 @@ This is the official repository accompanying the CVPR Workshop paper:
 | :---        |     :---:       | :---     |
 | ResNet101+DeepLabv3 (OS=16)     | 0.762           | [best_deeplabv3_resnet101_cityscapes_os16_seed1.pth](https://download.visinf.tu-darmstadt.de/data/2023-cvpr-hesse-cad/best_deeplabv3_resnet101_cityscapes_os16_seed1.pth)| 
 | ResNet101+DeepLabv3 (OS=8)   | 0.776           | [best_deeplabv3_resnet101_cityscapes_os8_seed1.pth](https://download.visinf.tu-darmstadt.de/data/2023-cvpr-hesse-cad/best_deeplabv3_resnet101_cityscapes_os8_seed1.pth) | 
-| ResNet101+DeepLabv3 edge (OS=8->16)       | 0.773           | [best_deeplabv3_batch_ap_resnet101_cityscapes_os8_modeedges_os16till8_seed2_trimapwidth11_threshold0.15.pth](best_deeplabv3_batch_ap_resnet101_cityscapes_os8_modeedges_os16till8_seed2_trimapwidth11_threshold0.15.pth) | 
+| ResNet101+DeepLabv3 edge (OS=8->16)       | 0.773           | [best_deeplabv3_batch_ap_resnet101_cityscapes_os8_modeedges_os16till8_seed2_trimapwidth11_threshold0.15.pth](https://download.visinf.tu-darmstadt.de/data/2023-cvpr-hesse-cad/best_deeplabv3_batch_ap_resnet101_cityscapes_os8_modeedges_os16till8_seed2_trimapwidth11_threshold0.15.pth) | 
 | ResNet101+DeepLabv3 learned (OS=8->16)     | 0.775           | [best_deeplabv3_ad_resnet101_cityscapes_modeend2end_seed0_default_tau1.0_lowresactive0.5_w_downsample_shared_andbatchnorm_shared.pth](https://download.visinf.tu-darmstadt.de/data/2023-cvpr-hesse-cad/best_deeplabv3_ad_resnet101_cityscapes_modeend2end_seed0_default_tau1.0_lowresactive0.5_w_downsample_shared_andbatchnorm_shared.pth) | 
 
 ### Available architectures
