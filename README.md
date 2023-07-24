@@ -6,7 +6,9 @@ This is the official repository accompanying the CVPR Workshop paper:
 
 [R. Hesse](https://robinhesse.github.io/), [S. Schaub-Meyer](https://schaubsi.github.io/), and [S. Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp). **Content-Adaptive Downsampling in Convolutional Neural Networks**. _CVPRW, The 6th Efficient Deep Learning for Computer Vision (ECV) Workshop_, 2023.
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Hesse_Content-Adaptive_Downsampling_in_Convolutional_Neural_Networks_CVPRW_2023_paper.pdf) | [Preprint (arXiv)](https://arxiv.org/abs/2305.09504) | [Video](https://www.youtube.com/watch?v=E4iJPpWaJso)
+[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Hesse_Content-Adaptive_Downsampling_in_Convolutional_Neural_Networks_CVPRW_2023_paper.pdf) | [Preprint (arXiv)](https://arxiv.org/abs/2305.09504) | [Video](https://www.youtube.com/watch?v=E4iJPpWaJso) | [Poster](https://github.com/visinf/cad/blob/main/poster.jpeg)
+
+![Poster](https://github.com/visinf/cad/blob/main/poster.jpeg)
 
 ## Semantic Segmentation (Sec. 4.2)
 
