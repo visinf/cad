@@ -126,7 +126,7 @@ The model weights can be downloaded by running:
 
 ```bash
 mkdir models
-wget https://dsmn.ml/files/d2-net/d2_tf.pth -O models/d2_tf.pth
+wget https://dusmanu.com/files/d2-net/d2_tf.pth -O models/d2_tf.pth
 ```
 
 ### Install the required packages
